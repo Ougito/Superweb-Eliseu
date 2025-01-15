@@ -16,3 +16,4 @@
 
 - index.html : web home
 - welcome.html : web de benvinguda
+- novedades.html : web on es mostren els llibres que s'acaben de publicar
